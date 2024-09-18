@@ -2,7 +2,7 @@
 # Site Settings
 title                    : "Luowei"
 description              : "Everything is possible in Electronic Design Automation(EDA)!"
-repository               : "EasyBadminton.github.io"
+repository               : "EasyBadminton/EasyBadminton.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics

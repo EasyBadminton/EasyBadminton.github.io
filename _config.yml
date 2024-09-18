@@ -2,7 +2,7 @@
 # Site Settings
 title                    : "Luowei"
 description              : "Everything is possible in Electronic Design Automation(EDA)!"
-repository               : "luowei02/luowei02.github.io"
+repository               : "EasyBadminton.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,7 +21,7 @@ author:
   location         : "Hefei, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://luowei02.github.io"
+  googlescholar    : "https://EasyBadminton.github.io"
   email            : "luowei@ustc.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :

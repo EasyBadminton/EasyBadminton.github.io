@@ -30,26 +30,22 @@ My research interests include
 
 # 🔥 News
 
-- *2024.06*: &nbsp;🎉🎉 I get my Acceptance Letter for Graduate Students.
+- *2024.06*: &nbsp;🎉🎉 I
 
 # 📝 Publications 
 
-
-
-</div>
-</div>
-
+- 
 # 🎖 Honors and Awards
-- *2022.11*  Team Champion of NJUST Campus Badminton Tournament. 
 
+- 
 # 📖 Educations
 - *2024.06 - 2027.04(now)*  M.S. University of Science and Technology of China, Integrated Circuit Engineering. 
 - *2020.09 - 2024.06*  B.S. Nanjing University of Science and Technology, Nano Material and Technology.
 
  **Course Learning:**
-- 1.VLSI CAD:PartⅠLogic([note click here](https://luowei02.github.io/blob/main/docs/VLSI-CAD.pdf))
+ - 
 # 💬 Invited Talks
-
+- 
 
 # 💻 Internships
 - *2023.07 - 2023.08*  [Suzhou Institute of Nano-tech and Nano-bionics, Chinese Academy of Sciences](http://nanodevices.sinano.ac.cn/), Suzhou, China.

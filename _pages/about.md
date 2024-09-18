@@ -34,17 +34,7 @@ My research interests include
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science 2024</div><img src='images/paper001.png' alt="描述" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-
-**[Paper Name:************************](https://luowei02.github.io), Sicence 2024**
-
-**Wei Luo**, Person A, Person B, et al.
-
-**Keywords**
-- Keywords one
-- Keywords two
 
 </div>
 </div>
